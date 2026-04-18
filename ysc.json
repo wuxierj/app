@@ -1,0 +1,48 @@
+{
+  "siteConfig": {
+    "title": "✨ 影视仓 · 接口合集",
+    "description": "TVBox、影视仓接口大全，支持多仓、单接口、GitHub源及实时更新文档。",
+    "version": "1.0.0"
+  },
+  "categories": [
+    {"id": "all", "label": "全部接口", "active": true},
+    {"id": "multi", "label": "多仓接口"},
+    {"id": "premium", "label": "优质推荐"},
+    {"id": "single", "label": "单接口"},
+    {"id": "github", "label": "GitHub源"},
+    {"id": "realtime", "label": "🔄 实时更新", "special": true}
+  ],
+  "interfaces": [
+    {"name": "无邪多仓", "url": "https://gh-proxy.com/https://raw.githubusercontent.com/wxrjck/-YSC-/refs/heads/main/wx.json", "category": "multi", "tag": "聚合全网", "note": "内置推荐+聚合全网"},
+    {"name": "装B多仓", "url": "https://xn--zq2ao005e.u.xn--dkw.xn--6qq986b3xl/apia.php?id=1", "category": "multi", "tag": "原欧歌", "backups": ["https://xn--hiih-wn6lw489o.v.nxog.top/apia.php?id=1"]},
+    {"name": "多多多仓", "url": "https://gitgud.io/iduo/cool/-/raw/master/dc.json", "category": "multi"},
+    {"name": "饭太硬", "url": "http://www.饭太硬.com/tv", "category": "premium", "tag": "推荐", "backups": ["http://www.饭太硬.net/tv", "http://www.饭太硬.xyz/tv", "http://fty.xxooo.cf/tv", "http://fty.888484.xyz/tv", "http://fty.333232.xyz/tv"]},
+    {"name": "肥猫", "url": "http://肥猫.com/", "category": "premium", "backups": ["https://6296.kstore.vip/facat.json", "http://hello.肥猫.com/"]},
+    {"name": "OK接口", "url": "http://ok321.top/ok", "category": "premium"},
+    {"name": "摸鱼", "url": "http://我不是.摸鱼儿.com", "category": "premium", "backups": ["http://我不是.摸鱼儿.xyz"]},
+    {"name": "王二小放牛娃", "url": "http://tvbox.王二小放牛娃.top", "category": "premium", "backups": ["https://d.kstore.dev/download/9280/wex.json"]},
+    {"name": "道长", "url": "https://gitlab.com/duomv/dzhipy/-/raw/main/index.json", "category": "single"},
+    {"name": "俊佬", "url": "http://home.jundie.top:81/top98.json", "category": "single"},
+    {"name": "老刘备", "url": "https://ghfast.top/https://raw.githubusercontent.com/liu673cn/box/main/m.json", "category": "single"},
+    {"name": "短剧专线", "url": "http://box.ufuzi.com/tv/qq/短剧频道/api.json", "category": "single"},
+    {"name": "儿童专线", "url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer", "category": "single"},
+    {"name": "巧计", "url": "http://cdn.qiaoji8.com/tvbox.json", "category": "single"},
+    {"name": "毒盒", "url": "https://毒盒.com/tv", "category": "single"},
+    {"name": "分享者", "url": "https://ghproxy.net/https://raw.githubusercontent.com/maoystv/6/main/001.json", "category": "github"},
+    {"name": "潇洒", "url": "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TVBox/main/api.json", "category": "github"},
+    {"name": "高天流云", "url": "https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json", "category": "github"},
+    {"name": "香雅晴", "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json", "category": "github"}
+  ],
+  "realtimeDocs": [
+    {"title": "📁 影视仓接口", "url": "https://www.kdocs.cn/l/cpreYLrimqHM", "description": "实时更新的接口合集文档"},
+    {"title": "📘 影视仓零基础使用教程", "url": "https://www.kdocs.cn/l/caLFEn3I0t0n", "description": "新手入门指南"}
+  ],
+  "uiTexts": {
+    "searchPlaceholder": "搜索接口名称或地址...",
+    "viewButton": "👀 查看",
+    "copyButton": "📋 复制",
+    "backupToggle": "备用线路",
+    "toastCopied": "📋 已复制到剪贴板",
+    "noResult": "🔍 没有找到匹配的接口"
+  }
+}

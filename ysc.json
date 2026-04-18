@@ -13,7 +13,7 @@
     {"id": "realtime", "label": "🔄 实时更新", "special": true}
   ],
   "interfaces": [
-    {"name": "无邪多仓", "url": "https://gh-proxy.com/https://raw.githubusercontent.com/wxrjck/-YSC-/refs/heads/main/wx.json", "category": "multi", "tag": "聚合全网", "note": "内置推荐+聚合全网"},
+    {"name": "无邪666多仓", "url": "https://gh-proxy.com/https://raw.githubusercontent.com/wxrjck/-YSC-/refs/heads/main/wx.json", "category": "multi", "tag": "聚合全网", "note": "内置推荐+聚合全网"},
     {"name": "装B多仓", "url": "https://xn--zq2ao005e.u.xn--dkw.xn--6qq986b3xl/apia.php?id=1", "category": "multi", "tag": "原欧歌", "backups": ["https://xn--hiih-wn6lw489o.v.nxog.top/apia.php?id=1"]},
     {"name": "多多多仓", "url": "https://gitgud.io/iduo/cool/-/raw/master/dc.json", "category": "multi"},
     {"name": "饭太硬", "url": "http://www.饭太硬.com/tv", "category": "premium", "tag": "推荐", "backups": ["http://www.饭太硬.net/tv", "http://www.饭太硬.xyz/tv", "http://fty.xxooo.cf/tv", "http://fty.888484.xyz/tv", "http://fty.333232.xyz/tv"]},

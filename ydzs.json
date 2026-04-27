@@ -1,0 +1,97 @@
+{
+  "app": {
+    "title": "阅读助手 · 书源集",
+    "description": "Flutter 三导航分类书源管理页",
+    "version": "1.0.0"
+  },
+  "docs": [
+    {
+      "name": "详细介绍",
+      "desc": "了解项目与功能",
+      "url": "https://www.kdocs.cn/l/ciXmtlllSMfr",
+      "icon": "info"
+    },
+    {
+      "name": "下载",
+      "desc": "获取最新版本",
+      "url": "https://www.kdocs.cn/l/cif7e8Y1uubm",
+      "icon": "download"
+    },
+    {
+      "name": "使用教程",
+      "desc": "快速上手指南",
+      "url": "https://www.kdocs.cn/l/cnuapUWoFp6B",
+      "icon": "menu_book"
+    },
+    {
+      "name": "书源合集",
+      "desc": "打包书源文档",
+      "url": "https://www.kdocs.cn/l/cdUHMJK00tDp",
+      "icon": "collections_bookmark"
+    },
+    {
+      "name": "萌新必看",
+      "desc": "新手入门必读",
+      "url": "https://www.kdocs.cn/l/cbMVVWFUuJLk",
+      "icon": "emoji_objects"
+    }
+  ],
+  "sources": [
+    {
+      "name": "笔趣阁",
+      "url": "https://ghfast.top/https://raw.githubusercontent.com/wuxierj/sy/main/笔趣阁全家桶.json",
+      "ghproxy": "ghfast.top",
+      "rawPath": "https://raw.githubusercontent.com/wuxierj/sy/main/笔趣阁全家桶.json"
+    },
+    {
+      "name": "速读谷",
+      "url": "https://ghfast.top/https://raw.githubusercontent.com/wuxierj/sy/main/速读谷.json",
+      "ghproxy": "ghfast.top",
+      "rawPath": "https://raw.githubusercontent.com/wuxierj/sy/main/速读谷.json"
+    },
+    {
+      "name": "七猫小说",
+      "url": "https://ghfast.top/https://raw.githubusercontent.com/wuxierj/sy/main/七猫免费小说.json",
+      "ghproxy": "ghfast.top",
+      "rawPath": "https://raw.githubusercontent.com/wuxierj/sy/main/七猫免费小说.json"
+    },
+    {
+      "name": "无邪书源合集",
+      "url": "https://ghf.xn--eqrr82bzpe.top/https://raw.githubusercontent.com/wxrjck/ydsy/main/sy.json",
+      "ghproxy": "ghf.xn--eqrr82bzpe.top",
+      "rawPath": "https://raw.githubusercontent.com/wxrjck/ydsy/main/sy.json"
+    },
+    {
+      "name": "narccissu一个人（女频）",
+      "url": "https://ghfast.top/https://raw.githubusercontent.com/wuxierj/sy/main/narccissu一个人（女频书源合集）.json",
+      "ghproxy": "ghfast.top",
+      "rawPath": "https://raw.githubusercontent.com/wuxierj/sy/main/narccissu一个人（女频书源合集）.json"
+    }
+  ],
+  "websites": [
+    {
+      "name": "喵公子阅读书源",
+      "domain": "yuedu.miaogongzi.net",
+      "url": "https://yuedu.miaogongzi.net/gx.html",
+      "avatar": "喵"
+    },
+    {
+      "name": "源仓库",
+      "domain": "yckceo.vip",
+      "url": "https://yckceo.vip/",
+      "avatar": "源"
+    },
+    {
+      "name": "源论坛",
+      "domain": "pc.sysbbs.com",
+      "url": "https://pc.sysbbs.com/?fromuid=33939",
+      "avatar": "论"
+    },
+    {
+      "name": "Yiove 书源仓库",
+      "domain": "shuyuan.yiove.com",
+      "url": "https://shuyuan.yiove.com/",
+      "avatar": "Y"
+    }
+  ]
+}

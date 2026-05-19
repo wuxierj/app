@@ -2,7 +2,22 @@
   "siteConfig": {
     "title": "✨ 影视仓 · 接口合集",
     "description": "TVBox、影视仓接口大全，支持多仓、单接口、GitHub源及实时更新文档。",
-    "version": "1.0.2"
+    "version": "1.0.3"
+  },
+  "notification": {
+    "enabled": true,
+    "icon": "🔔",
+    "title": "重要通知",
+    "content": "欢迎使用影视仓接口合集！本站持续更新优质接口资源。",
+    "showOnce": false,
+    "autoShow": false,
+    "autoShowDelay": 3000,
+    "backgroundColor": "#ffffff",
+    "titleColor": "#0f172a",
+    "contentColor": "#334155",
+    "buttonText": "我知道了",
+    "buttonColor": "#2563eb",
+    "buttonTextColor": "#ffffff"
   },
   "categories": [
     {"id": "all", "label": "全部接口", "active": true},

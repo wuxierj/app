@@ -7,7 +7,7 @@
   "notification": {
     "enabled": true,
     "icon": "🔔",
-    "title": "更新时间5",
+    "title": "更新时间",
     "content": "2026.05.19",
     "showOnce": false,
     "autoShow": false,

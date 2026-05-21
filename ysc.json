@@ -2,13 +2,13 @@
   "siteConfig": {
     "title": "✨ 影视仓 · 接口合集",
     "description": "TVBox、影视仓接口大全，支持多仓、单接口、GitHub源及实时更新文档。",
-    "version": "1.0.5"
+    "version": "1.0.6"
   },
   "notification": {
     "enabled": true,
     "icon": "🔔",
     "title": "更新时间",
-    "content": "2026.05.19",
+    "content": "2026.05.21",
     "showOnce": false,
     "autoShow": false,
     "autoShowDelay": 3000,

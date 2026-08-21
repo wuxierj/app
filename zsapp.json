@@ -1,0 +1,64 @@
+{
+  "version": "1.0.0",
+  "update": {
+    "version": "1.1.0",
+    "versionCode": 2,
+    "title": "发现新版本 v1.1.0",
+    "message": "1. 书源和网站改为后台动态加载\n2. 新增更新检查功能\n3. 修复下载进度独立追踪\n4. 界面优化",
+    "download_url": "https://gofile.io/d/ZYkxnk4P",
+    "force": false
+  },
+  "book_sources": [
+    {
+      "name": "笔趣阁",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/wuxierj/sy/main/笔趣阁全家桶.json",
+      "icon": "📖"
+    },
+    {
+      "name": "速读谷",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/wuxierj/sy/main/速读谷.json",
+      "icon": "📚"
+    },
+    {
+      "name": "七猫小说",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/wuxierj/sy/main/七猫免费小说.json",
+      "icon": "📖"
+    },
+    {
+      "name": "无邪书源合集",
+      "url": "https://ghf.xn--eqrr82bzpe.top/https://raw.githubusercontent.com/wxrjck/ydsy/main/sy.json",
+      "icon": "📕"
+    },
+    {
+      "name": "narccissu（女频）",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/wuxierj/sy/main/narccissu一个人（女频书源合集）.json",
+      "icon": "📗"
+    }
+  ],
+  "websites": [
+    {
+      "title": "喵公子阅读书源",
+      "subtitle": "yuedu.miaogongzi.net",
+      "url": "https://yuedu.miaogongzi.net",
+      "icon": "🐱"
+    },
+    {
+      "title": "源仓库",
+      "subtitle": "yckceo.vip",
+      "url": "https://yckceo.vip",
+      "icon": "🏛️"
+    },
+    {
+      "title": "源论坛",
+      "subtitle": "pc.sysbbs.com",
+      "url": "https://pc.sysbbs.com",
+      "icon": "💬"
+    },
+    {
+      "title": "Yiove 书源仓库",
+      "subtitle": "shuyuan.yiove.com",
+      "url": "https://shuyuan.yiove.com",
+      "icon": "📦"
+    }
+  ]
+}

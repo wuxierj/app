@@ -5,7 +5,7 @@
     "versionCode": 2,
     "title": "发现新版本 v1.1.0",
     "message": "1. 书源和网站改为后台动态加载\n2. 新增更新检查功能\n3. 修复下载进度独立追踪\n4. 界面优化",
-    "download_url": "https://gofile.io/d/ZYkxnk4P",
+    "download_url": "",
     "force": false
   },
   "book_sources": [

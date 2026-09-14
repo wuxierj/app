@@ -1,0 +1,19 @@
+
+{
+  "dialogVersion": 1,
+  "lastUpdated": "2026-09-14T12:33:25+08:00",
+  "dialog": {
+    "enabled": true,
+    "force": false,
+    "title": "无邪软件",
+    "contentLines": [
+      "无邪软件：专注分享免费、干净、好用的安卓应用。",
+      "今日热榜由无邪软件出品，无广告、无捆绑、无恶意行为，请放心使用。"
+    ],
+    "showCancel": true,
+    "showConfirm": true,
+    "showUpdate": true,
+    "latestVersion": "1.1.1",
+    "updateUrl": "https:链接"
+  }
+}

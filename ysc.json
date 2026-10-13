@@ -2,7 +2,7 @@
   "siteConfig": {
     "title": "✨ 影视仓 · 接口合集",
     "description": "TVBox、影视仓接口大全，支持多仓、单接口、GitHub源及实时更新文档。",
-    "version": "1.0.6"
+    "version": "1.0.7"
   },
   "notification": {
     "enabled": true,
@@ -24,7 +24,6 @@
   "interfaces": [
     {"name": "无邪多仓", "url": "https://gh-proxy.com/https://raw.githubusercontent.com/wxrjck/-YSC-/refs/heads/main/wx.json", "category": "multi", "tag": "无邪", "note": "内置推荐+聚合全网"},
     {"name": "鸟叔多仓（V3专用）", "url": "https://8.163.122.228/ysc", "category": "multi", "tag": "V3专用"},
-    {"name": "多多多仓", "url": "https://gitgud.io/iduo/cool/-/raw/master/dc.json", "category": "multi"},
     {"name": "饭太硬", "url": "http://饭太硬.top/tv", "category": "premium", "tag": "优质", "backups": ["http://www.饭太硬.net/tv", "http://www.饭太硬.xyz/tv"]},
     {"name": "肥猫", "url": "http://肥猫.net/", "category": "premium", "tag": "新升级", "backups": ["http://hello.肥猫.net", "http://肥猫.net/tv"]},
     {"name": "摸鱼", "url": "http://我不是.摸鱼儿.cc", "category": "premium", "tag": "更新", "backups": ["http://fish.y456y.com"]},

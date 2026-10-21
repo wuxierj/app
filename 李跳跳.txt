@@ -36,16 +36,19 @@
     "-2086095549": "{\"popup_rules\":[{\"id\":\"=取消\",\"action\":\"=去设置\"},{\"id\":\"版本更新&+优化升级&+发现新版本\",\"action\":\"=取消&=暂不更新\"},{\"id\":\"\",\"action\":\"=close_img\",\"times\":1},{\"id\":\"\",\"action\":\"=ad_close_layout_container&=rel_close\"},{\"id\":\"\",\"action\":\"=append_element_view_remove_ad_ll\"},{\"id\":\"\",\"action\":\"=取消&=去设置\"},{\"id\":\"\",\"action\":\"=取消&=暂不更新\"}]}"
   },
   {
+    "-2080401695": "{\"popup_rules\":[],\"keywords\":[\"跳过\"],\"keywords_append\":[\"跳过\"],\"click_way\":1}"
+  },
+  {
     "-2079399752": "{\"popup_rules\":[]}"
   },
   {
-    "-2075712516": "{\"popup_rules\":[{\"id\":\"\",\"action\":\"=skip_ad_button&=modern_skip_ad_text\"},{\"id\":\"\",\"action\":\"=关闭广告面板&=Close ad panel&=panel_header\"},{\"id\":\"\",\"action\":\"-广告&ad &=panel_header\"},{\"id\":\"=Image attachment\",\"action\":\"=不用了，谢谢&=关闭&=我暂时不要&=Close&=No thanks&=I’ll pass this time\"},{\"id\":\"=Image attachment\",\"action\":\"=不用了，谢谢&=关闭&=我暂时不要&=Close&=No thanks&=custom\"},{\"id\":\"=开启通知\",\"action\":\"=不用了\"},{\"id\":\"\",\"action\":\"+翻译成&+Translate to&=results&=section_list\"},{\"id\":\"\",\"action\":\"=mealbar_action_button&=mealbar_dismiss_button\"},{\"id\":\"\",\"action\":\"=更多选项&=panel_header\"},{\"id\":\"\",\"action\":\"=collapsible_ad_cta_overlay_container&=overflow_button\"},{\"id\":\"\",\"action\":\"+该内容可能&+This content may be&=继续&=Continue\"},{\"id\":\"+以下内容可能包含&+The following content may contain&=android:id/contentPanel\",\"action\":\"=android:id/buttonPanel&=确认&=Confirm\"},{\"id\":\"\",\"action\":\"=modern_miniplayer_close\"},{\"id\":\"\",\"action\":\"=关闭&+你对以上评论作&=results\"},{\"id\":\"\",\"action\":\"=关闭&=list_item_text\"},{\"id\":\"\",\"action\":\"=skip_button&=survey_answers&=survey_attribution\"}],\"keywords_append\":[\"=skip_ad_button\",\"=modern_skip_ad_text\"]}"
+    "-2075712516": "{\"popup_rules\":[{\"id\":\"\",\"action\":\"=skip_ad_button&=modern_skip_ad_text\"},{\"id\":\"\",\"action\":\"=关闭广告面板&=Close ad panel&=panel_header\"},{\"id\":\"\",\"action\":\"-广告&ad &=panel_header\"},{\"id\":\"=Image attachment\",\"action\":\"=不用了，谢谢&=关闭&=我暂时不要&=Close&=No thanks&=I’ll pass this time\"},{\"id\":\"=Image attachment\",\"action\":\"=不用了，谢谢&=关闭&=我暂时不要&=Close&=No thanks&=custom\"},{\"id\":\"=开启通知\",\"action\":\"=不用了\"},{\"id\":\"\",\"action\":\"+翻译成&+Translate to&=results&=section_list\"},{\"id\":\"\",\"action\":\"=mealbar_action_button&=mealbar_dismiss_button\"},{\"id\":\"\",\"action\":\"=更多选项&=panel_header\"},{\"id\":\"\",\"action\":\"=collapsible_ad_cta_overlay_container&=overflow_button\"},{\"id\":\"\",\"action\":\"+该内容可能&+This content may be&=继续&=Continue\"},{\"id\":\"+以下内容可能包含&+The following content may contain&=android:id/contentPanel\",\"action\":\"=android:id/buttonPanel&=确认&=Confirm\"},{\"id\":\"\",\"action\":\"=modern_miniplayer_close\"},{\"id\":\"\",\"action\":\"=关闭&+你对以上评论作&=results\"},{\"id\":\"\",\"action\":\"=关闭&=list_item_text\"},{\"id\":\"\",\"action\":\"=skip_button&=survey_answers&=survey_attribution\"},{\"id\":\"\",\"action\":\"=关闭&=Dismiss&=list_item_text\"}],\"keywords_append\":[\"=skip_ad_button\",\"=modern_skip_ad_text\"]}"
   },
   {
     "-2069018544": "{\"popup_rules\":[{\"id\":\"\",\"action\":\"=iv_cancle\"}]}"
   },
   {
-    "-2066471802": "{\"keywords_append\":[\"跳过\",\"|\"],\"popup_rules\":[{\"id\":\"\",\"action\":\"=com.kwad.dy.sdk:id/ksad_tk_view&=跳过\"}],\"unite_popup_rules\":true}"
+    "-2066471802": "{\"keywords_append\":[\"跳过\",\"|\",\"=ms_skipView\"],\"popup_rules\":[{\"id\":\"\",\"action\":\"=com.kwad.dy.sdk:id/ksad_tk_view&=跳过\"}],\"unite_popup_rules\":true}"
   },
   {
     "-2057031746": "{\"keywords_append\":[\"tv_close_time\",\"关闭\"],\"popup_rules\":[{\"id\":\"\",\"action\":\"确定要退出&-tv_exit_sure\"}]}"
@@ -217,6 +220,9 @@
   },
   {
     "-1767146031": "{\"popup_rules\":[{\"id\":\"\",\"action\":\"=下载应用&=立即下载&=查看详情&=领取优惠&=进入小程序&=了解更多\"},{\"id\":\"\",\"action\":\"=tv_btn_cancel\"}]}"
+  },
+  {
+    "-1767025301": "{\"popup_rules\":[{\"id\":\"=See full details\",\"action\":\"=action_bar_root\"}]}"
   },
   {
     "-1763354987": "{\"popup_rules\":[]}"
@@ -486,7 +492,7 @@
     "-1417479130": "{\"popup_rules\":[{\"id\":\"=title&=获取位置信息\",\"action\":\"=不同意\"},{\"id\":\"=体检优化&=存储空间预警\",\"action\":\"=退出\"},{\"id\":\"=知道了\",\"action\":\"=省电模式\"},{\"id\":\"=我已知晓可能存在的风险，并自愿承担可能导致的后果\",\"action\":\"=check_box\"},{\"id\":\"+开启自启动\",\"action\":\"GLOBAL_ACTION_BACK\"},{\"id\":\"+关闭自启动后将导致\",\"action\":\"=关闭\"},{\"id\":\"=分享文件\",\"action\":\"=允许\"},{\"id\":\"=SIM卡安全保护验证成功\",\"action\":\"=确定\"},{\"id\":\"=应用在后台被终止运行，可能会影响应用正常使用。\",\"action\":\"=确定\"}]}"
   },
   {
-    "-1414602254": "{\"popup_rules\":[{\"id\":\"+立即体验\",\"action\":\"=不再提示\"},{\"id\":\"\",\"action\":\"=朋友推荐&=close\"},{\"id\":\"\",\"action\":\"=及时获得消息提醒&=暂不开启\"},{\"id\":\"\",\"action\":\"=原图&+未选中\"},{\"id\":\"\",\"action\":\"=同意协议并查看额度\"}]}"
+    "-1414602254": "{\"popup_rules\":[{\"id\":\"+立即体验\",\"action\":\"=不再提示\"},{\"id\":\"\",\"action\":\"=朋友推荐&=close\"},{\"id\":\"\",\"action\":\"=及时获得消息提醒&=暂不开启\"},{\"id\":\"\",\"action\":\"=原图&+未选中\"},{\"id\":\"\",\"action\":\"=同意协议并查看额度\"},{\"id\":\"\",\"action\":\"=以后再说&=暂不开启&=禁止&=取消&=保持现状\"}]}"
   },
   {
     "-1391125013": "{\"popup_rules\":[]}"
@@ -774,6 +780,9 @@
     "-880053212": "{\"popup_rules\":[{\"id\":\"=itemUser\",\"action\":\"=bannerLayout\"},{\"id\":\"\",\"action\":\"=button_close_ad\"},{\"id\":\"=title_browse\",\"action\":\"=banner\"},{\"id\":\"=tv_update\",\"action\":\"=iv_close\"},{\"id\":\"\",\"action\":\"=item_broadcast&=button_close\"},{\"id\":\"\",\"action\":\"=tv_update&=iv_close\"}],\"delay\":300}"
   },
   {
+    "-872524326": "{\"popup_rules\":[{\"id\":\"\",\"action\":\"=tobid_interstitial_skip_ll\"}]}"
+  },
+  {
     "-871706292": "{\"popup_rules\":[],\"unite_popup_rules\":true}"
   },
   {
@@ -852,7 +861,7 @@
     "-779204243": "{\"popup_rules\":[]}"
   },
   {
-    "-776064554": "{\"popup_rules\":[],\"keywords\":[\"跳过\"],\"keywords_append\":[\"跳过\"],\"click_way\":1}"
+    "-776064554": "{\"popup_rules\":[],\"keywords\":[\"跳过\"],\"keywords_append\":[\"跳过\",\"=adgain_splash_skip_ll\"],\"click_way\":1}"
   },
   {
     "-766051647": "{\"popup_rules\":[{\"id\":\"=评分\",\"action\":\"=下次再说\"},{\"id\":\"=开启后台无限制\",\"action\":\"=close_icon\"},{\"id\":\"=cardview\",\"action\":\"=dialog_close\"},{\"id\":\"=下载并安装&=立即更新\",\"action\":\"=放弃更新&=取消\"},{\"id\":\"\",\"action\":\"=bannerAnnouncementView&=iv_close\"},{\"id\":\"\",\"action\":\"=close_instruction&+鼾声梦话监测开关因麦克风未授权而关闭\"},{\"id\":\"\",\"action\":\"=评分&=下次再说\"},{\"id\":\"\",\"action\":\"=开启后台无限制&=close_icon\"},{\"id\":\"\",\"action\":\"=cardview&=dialog_close\"},{\"id\":\"\",\"action\":\"=下载并安装&=立即更新&=放弃更新&=取消\"}]}"
@@ -1593,7 +1602,7 @@
     "311511704": "{\"popup_rules\":[{\"id\":\"\",\"action\":\"=close_view\",\"times\":1}]}"
   },
   {
-    "313184810": "{\"keywords_append\":[\"跳过\"],\"popup_rules\":[{\"id\":\"-评论氛围是否满意？,匿名\",\"action\":\"=关闭,按钮\"},{\"id\":\"立即升级\",\"action\":\"=以后再说\"},{\"id\":\"+打开私信通知&=开启朋友的消息通知&=及时获得消息提醒&-评论回复提醒\",\"action\":\"=以后再说&=暂不开启&=禁止&=取消\"},{\"id\":\"=添加火花桌面小组件\",\"action\":\"GLOBAL_ACTION_BACK\"},{\"id\":\"通讯录\",\"action\":\"=拒绝\"},{\"id\":\"青少年&未成年&模式\",\"action\":\"=关闭&=不再提醒\"},{\"id\":\"个性化推荐\",\"action\":\"=稍后再说\"},{\"id\":\"=发口令开红包\",\"action\":\"=一键发送到聊天\"},{\"id\":\"相机权限\",\"action\":\"=以后再说\"},{\"id\":\"\",\"action\":\"=购买&=iv_close\"},{\"id\":\"\",\"action\":\"=以后再说&=暂不开启&=禁止&=取消\",\"times\":1},{\"id\":\"\",\"action\":\"=关闭&=不再提醒\"},{\"id\":\"\",\"action\":\"=你可能喜欢这些直播&=close\"},{\"id\":\"\",\"action\":\"=以后再说&=暂不开启&=禁止&=取消&=保持现状\",\"times\":1}]}"
+    "313184810": "{\"keywords_append\":[\"跳过\"],\"popup_rules\":[{\"id\":\"-评论氛围是否满意？,匿名\",\"action\":\"=关闭,按钮\"},{\"id\":\"立即升级\",\"action\":\"=以后再说\"},{\"id\":\"+打开私信通知&=开启朋友的消息通知&=及时获得消息提醒&-评论回复提醒\",\"action\":\"=以后再说&=暂不开启&=禁止&=取消\"},{\"id\":\"=添加火花桌面小组件\",\"action\":\"GLOBAL_ACTION_BACK\"},{\"id\":\"通讯录\",\"action\":\"=拒绝\"},{\"id\":\"青少年&未成年&模式\",\"action\":\"=关闭&=不再提醒\"},{\"id\":\"个性化推荐\",\"action\":\"=稍后再说\"},{\"id\":\"=发口令开红包\",\"action\":\"=一键发送到聊天\"},{\"id\":\"相机权限\",\"action\":\"=以后再说\"},{\"id\":\"\",\"action\":\"=购买&=iv_close\"},{\"id\":\"\",\"action\":\"=以后再说&=暂不开启&=禁止&=取消\",\"times\":1},{\"id\":\"\",\"action\":\"=关闭&=不再提醒\"},{\"id\":\"\",\"action\":\"=你可能喜欢这些直播&=close\"},{\"id\":\"\",\"action\":\"=以后再说&=暂不开启&=禁止&=取消&=保持现状\",\"times\":1},{\"id\":\"=立即下载\",\"action\":\"=iv_close\"}]}"
   },
   {
     "321803898": "{\"popup_rules\":[{\"id\":\"=ivClose\",\"action\":\"=新版本上线啦\"},{\"id\":\"\",\"action\":\"=新版本上线啦&=ivClose\"}]}"
@@ -2304,6 +2313,9 @@
     "1283073952": "{\"popup_rules\":[{\"id\":\"\",\"action\":\"=下次再说&=发现新版本\"},{\"id\":\"\",\"action\":\"=dialog_delete&=关闭\"}]}"
   },
   {
+    "1291563139": "{\"popup_rules\":[],\"keywords\":[\"跳过\"],\"keywords_append\":[\"跳过\"],\"click_way\":1}"
+  },
+  {
     "1293827157": "{\"popup_rules\":[{\"id\":\"\",\"action\":\"=青少年模式&=我知道了\"}]}"
   },
   {
@@ -2544,7 +2556,7 @@
     "1667762191": "{\"popup_rules\":[{\"id\":\"\",\"action\":\"=开心收下&=前往领取\"},{\"id\":\"\",\"action\":\"=狠心离开&=立即领取\"},{\"id\":\"\",\"action\":\"+展开&-条回复\"}]}"
   },
   {
-    "1669653651": "{\"popup_rules\":[{\"id\":\"=广告\",\"action\":\"=|&-s\"}]}"
+    "1669653651": "{\"popup_rules\":[{\"id\":\"=广告\",\"action\":\"=|&-s\"}],\"keywords_append\":[\"=splashAdvert_skipLayout\"]}"
   },
   {
     "1687434365": "{\"popup_rules\":[{\"id\":\"=去开启\",\"action\":\"=ivClose\"},{\"id\":\"\",\"action\":\"=fragment_container\"},{\"id\":\"\",\"action\":\"=发现新版本&=以后再说\"},{\"id\":\"\",\"action\":\"=去开启&=ivClose\"}]}"
@@ -2760,7 +2772,7 @@
     "1990194946": "{\"popup_rules\":[{\"id\":\"\",\"action\":\"=app_update_later_button\"}]}"
   },
   {
-    "1994036591": "{\"keywords_append\":[\"count_down\",\"skip\",\"=skip\"],\"popup_rules\":[{\"id\":\"\",\"action\":\"=ad_tint_frame&=close&=关闭\"},{\"id\":\"\",\"action\":\"=ad_goods_mark_big\"},{\"id\":\"\",\"action\":\"=不感兴趣&+tv.danmaku.bili:id/reason\"},{\"id\":\"\",\"action\":\"=update_btn_cancel\"},{\"id\":\"\",\"action\":\"=close&-免费领B站大会员\"},{\"id\":\"\",\"action\":\"=shopping_close&=live_game_card_close&=match_close&=iv_pop_rank_guide_card_close&=card_close\"},{\"id\":\"\",\"action\":\"=close&=iv_close&=up_avatar&=gift_icon&=follow_container\"},{\"id\":\"\",\"action\":\"-通知&=close\"},{\"id\":\"\",\"action\":\"-ad_tint_frame&-root_container&-constraintLayout&=more&=tv.danmaku.bili.adbiz:id/more\"},{\"id\":\"\",\"action\":\"=card_content&=corner_hint_container&=inline_more\"},{\"id\":\"\",\"action\":\"=此类内容过多&=相似内容过多&=不感兴趣&=up主不感兴趣&=对该up的直播不感兴趣&=我不想看&=引人不适\"},{\"id\":\"\",\"action\":\"=此类内容过多&=相似内容过多\"},{\"id\":\"\",\"action\":\"=开启个性化内容推荐&=close_button\"},{\"id\":\"\",\"action\":\"=会员中心&=大会员&=webview\"},{\"id\":\"\",\"action\":\"=vip_panel\"},{\"id\":\"\",\"action\":\"=dialog-canvas&=webview\"},{\"id\":\"\",\"action\":\"=poster_share_cancel\"},{\"id\":\"\",\"action\":\"=ad_tint_frame&=more\"},{\"id\":\"\",\"action\":\"-ad_tint_frame&=more&=more_layout&=tv.danmaku.bili.adbiz:id/more&=tv.danmaku.bili.adbiz:id/more_layout\"},{\"id\":\"\",\"action\":\"=课堂&=纪录片&=游戏&=bottom_container&=live_lottie_layout&=more\"},{\"id\":\"\",\"action\":\"不感兴趣&=相似内容过多&不想看&-质量差\"},{\"id\":\"\",\"action\":\"=领取&=领经验&=app&-隐私政策&=webview\"},{\"id\":\"\",\"action\":\"=rating_dialog_close\"},{\"id\":\"\",\"action\":\"=live_combo_action_button&=点赞\"},{\"id\":\"\",\"action\":\"=live_combo_action_button&=投喂\"},{\"id\":\"\",\"action\":\"=video_area\"},{\"id\":\"\",\"action\":\"=toolbar_action_overflow&+更多\"},{\"id\":\"=倍速\",\"action\":\"=title&=1.25\"},{\"id\":\"=倍速\",\"action\":\"=title&=1.5\"},{\"id\":\"=倍速\",\"action\":\"=title&=2.0\"},{\"id\":\"\",\"action\":\"=animation_close\"},{\"id\":\"+开启悬浮窗\",\"action\":\"=暂不开启\"},{\"id\":\"\",\"action\":\"+yellow-tip-close&=app&=webview\"},{\"id\":\"\",\"action\":\"=tv_expand&展开\"},{\"id\":\"\",\"action\":\"=展开更多&=app&=webview\"},{\"id\":\"\",\"action\":\"=mall_home_newuser_coupon_close\"},{\"id\":\"\",\"action\":\"=取消&=后将展示广告&=video_container\"},{\"id\":\"=完善信息，获取精准推荐\",\"action\":\"GLOBAL_ACTION_BACK\"}],\"delay\":1000}"
+    "1994036591": "{\"keywords_append\":[\"count_down\",\"skip\",\"=skip\",\"跳过\",\"+跳过\"],\"popup_rules\":[{\"id\":\"\",\"action\":\"=ad_tint_frame&=close&=关闭\"},{\"id\":\"\",\"action\":\"=ad_goods_mark_big\"},{\"id\":\"\",\"action\":\"=不感兴趣&+tv.danmaku.bili:id/reason\"},{\"id\":\"\",\"action\":\"=update_btn_cancel\"},{\"id\":\"\",\"action\":\"=close&-免费领B站大会员\"},{\"id\":\"\",\"action\":\"=shopping_close&=live_game_card_close&=match_close&=iv_pop_rank_guide_card_close&=card_close\"},{\"id\":\"\",\"action\":\"=close&=iv_close&=up_avatar&=gift_icon&=follow_container\"},{\"id\":\"\",\"action\":\"-通知&=close\"},{\"id\":\"\",\"action\":\"-ad_tint_frame&-root_container&-constraintLayout&=more&=tv.danmaku.bili.adbiz:id/more\"},{\"id\":\"\",\"action\":\"=card_content&=corner_hint_container&=inline_more\"},{\"id\":\"\",\"action\":\"=此类内容过多&=相似内容过多&=不感兴趣&=up主不感兴趣&=对该up的直播不感兴趣&=我不想看&=引人不适\"},{\"id\":\"\",\"action\":\"=此类内容过多&=相似内容过多\"},{\"id\":\"\",\"action\":\"=开启个性化内容推荐&=close_button\"},{\"id\":\"\",\"action\":\"=会员中心&=大会员&=webview\"},{\"id\":\"\",\"action\":\"=vip_panel\"},{\"id\":\"\",\"action\":\"=dialog-canvas&=webview\"},{\"id\":\"\",\"action\":\"=poster_share_cancel\"},{\"id\":\"\",\"action\":\"=ad_tint_frame&=more\"},{\"id\":\"\",\"action\":\"-ad_tint_frame&=more&=more_layout&=tv.danmaku.bili.adbiz:id/more&=tv.danmaku.bili.adbiz:id/more_layout\"},{\"id\":\"\",\"action\":\"=课堂&=纪录片&=游戏&=bottom_container&=live_lottie_layout&=more\"},{\"id\":\"\",\"action\":\"不感兴趣&=相似内容过多&不想看&-质量差\"},{\"id\":\"\",\"action\":\"=领取&=领经验&=app&-隐私政策&=webview\"},{\"id\":\"\",\"action\":\"=rating_dialog_close\"},{\"id\":\"\",\"action\":\"=live_combo_action_button&=点赞\"},{\"id\":\"\",\"action\":\"=live_combo_action_button&=投喂\"},{\"id\":\"\",\"action\":\"=video_area\"},{\"id\":\"\",\"action\":\"=toolbar_action_overflow&+更多\"},{\"id\":\"=倍速\",\"action\":\"=title&=1.25\"},{\"id\":\"=倍速\",\"action\":\"=title&=1.5\"},{\"id\":\"=倍速\",\"action\":\"=title&=2.0\"},{\"id\":\"\",\"action\":\"=animation_close\"},{\"id\":\"+开启悬浮窗\",\"action\":\"=暂不开启\"},{\"id\":\"\",\"action\":\"+yellow-tip-close&=app&=webview\"},{\"id\":\"\",\"action\":\"=tv_expand&展开\"},{\"id\":\"\",\"action\":\"=展开更多&=app&=webview\"},{\"id\":\"\",\"action\":\"=mall_home_newuser_coupon_close\"},{\"id\":\"\",\"action\":\"=取消&=后将展示广告&=video_container\"},{\"id\":\"=完善信息，获取精准推荐\",\"action\":\"GLOBAL_ACTION_BACK\"}],\"delay\":0,\"click_way\":1,\"keywords\":[\"跳过\",\"=skip\",\"count_down\"]}"
   },
   {
     "1998166565": "{\"popup_rules\":[{\"id\":\"\",\"action\":\"+dislike&=广告\"}]}"

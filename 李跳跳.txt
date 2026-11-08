@@ -513,6 +513,9 @@
     "-1372624301": "{\"popup_rules\":[{\"id\":\"\",\"action\":\"=close&公告\"}]}"
   },
   {
+    "-1366078392": "{\"popup_rules\":[{\"id\":\"\",\"action\":\"=暂不开启&=push_permission_bottom_v2_compose_view\"},{\"id\":\"\",\"action\":\"=ad_source\"}]}"
+  },
+  {
     "-1357050264": "{\"popup_rules\":[{\"id\":\"\",\"action\":\"=float_window&=ivCancle\"},{\"id\":\"=cover-img\",\"action\":\"=关闭推荐\"},{\"id\":\"+活动图片\",\"action\":\"=ivCancle&=关闭\"},{\"id\":\"\",\"action\":\"=关闭&开启&定位\"}]}"
   },
   {
@@ -714,6 +717,9 @@
     "-955767762": "{\"keywords_append\":[\"跳过\",\"ms_skipView\",\"animation_view\",\"=ms_skipView\"],\"popup_rules\":[{\"id\":\"=广告&=badge\",\"action\":\"=delete&=close\"},{\"id\":\"\",\"action\":\"=contentWebView\"},{\"id\":\"\",\"action\":\"=广告&=nested_view_group&=contentWebView\"},{\"id\":\"\",\"action\":\"=recommended_reviews_or_rating_close_img\"},{\"id\":\"=签到成功！\",\"action\":\"=确定\"},{\"id\":\"\",\"action\":\"=广告&=badge&=delete&=close\"}]}"
   },
   {
+    "-954983837": "{\"popup_rules\":[{\"id\":\"\",\"action\":\"=content_image&=close_btn\"}],\"keywords\":[\"跳过\"],\"keywords_append\":[\"跳过\"],\"click_way\":1}"
+  },
+  {
     "-949179023": "{\"popup_rules\":[{\"id\":\"\",\"action\":\"=wm_upgrade_force_cancel\"}]}"
   },
   {
@@ -738,7 +744,7 @@
     "-921040269": "{\"popup_rules\":[]}"
   },
   {
-    "-920735187": "{\"keywords_append\":[\"跳过\",\"splash_skip_button\",\"=splash_skip_button\"],\"popup_rules\":[{\"id\":\"\",\"action\":\"-新版本&=cancel\"},{\"id\":\"\",\"action\":\"=upgrade_dialog_close_btn\"},{\"id\":\"=btnEnterTeen\",\"action\":\"=btnCancel\"},{\"id\":\"\",\"action\":\"=imgClose&=btnClose\"},{\"id\":\"=ivClose\",\"action\":\"+开启推送\"},{\"id\":\"\",\"action\":\"=ivUpdateNoticeClose\"},{\"id\":\"\",\"action\":\"=ivAdClose\"},{\"id\":\"\",\"action\":\"=scanLogin\"},{\"id\":\"\",\"action\":\"-知道了&=app&=webViewContainer\"},{\"id\":\"\",\"action\":\"=rootView&=btnHongbaoClose\"},{\"id\":\"+当前处于移动网络\",\"action\":\"=播放\"},{\"id\":\"\",\"action\":\"=btnCheckIn&=签到\"},{\"id\":\"\",\"action\":\"=福利中心&=webViewContainer\"},{\"id\":\"\",\"action\":\"+订阅后续付费章\",\"times\":1},{\"id\":\"=已订阅至最新章节\",\"action\":\"GLOBAL_ACTION_BACK\"},{\"id\":\"=btnBack\",\"action\":\"=layoutTitle&=目录\"},{\"id\":\"\",\"action\":\"=btnEnterTeen&=btnCancel\"}]}"
+    "-920735187": "{\"keywords_append\":[\"跳过\",\"splash_skip_button\",\"=splash_skip_button\"],\"popup_rules\":[{\"id\":\"\",\"action\":\"-新版本&=cancel\"},{\"id\":\"\",\"action\":\"=upgrade_dialog_close_btn\"},{\"id\":\"=btnEnterTeen\",\"action\":\"=btnCancel\"},{\"id\":\"\",\"action\":\"=imgClose&=btnClose\"},{\"id\":\"=ivClose\",\"action\":\"+开启推送\"},{\"id\":\"\",\"action\":\"=ivUpdateNoticeClose\"},{\"id\":\"\",\"action\":\"=ivAdClose\"},{\"id\":\"\",\"action\":\"=scanLogin\"},{\"id\":\"\",\"action\":\"-知道了&=app&=webViewContainer\"},{\"id\":\"\",\"action\":\"=rootView&=btnHongbaoClose\"},{\"id\":\"+当前处于移动网络\",\"action\":\"=播放\"},{\"id\":\"\",\"action\":\"=btnCheckIn&=签到\"},{\"id\":\"\",\"action\":\"=福利中心&=webViewContainer\"},{\"id\":\"\",\"action\":\"+订阅后续付费章\",\"times\":1},{\"id\":\"=已订阅至最新章节\",\"action\":\"GLOBAL_ACTION_BACK\"},{\"id\":\"=btnBack\",\"action\":\"=layoutTitle&=目录\"},{\"id\":\"\",\"action\":\"=btnEnterTeen&=btnCancel\"},{\"id\":\"\",\"action\":\"=追更至最新章节&=ivClose\"}]}"
   },
   {
     "-918490570": "{\"popup_rules\":[{\"id\":\"=second_entrance_img\",\"action\":\"=left_close_img\"},{\"id\":\"\",\"action\":\"=iv_upgrade_btn_ignore\"},{\"id\":\"\",\"action\":\"=popClose&=关闭弹窗\",\"times\":1},{\"id\":\"=升级一键付款\",\"action\":\"=跳过\"},{\"id\":\"=追加以下车型 可更快应答\",\"action\":\"=暂时不用\"},{\"id\":\"\",\"action\":\"=left_close_img&=thumb_close_iv\"}]}"
@@ -1539,7 +1545,7 @@
     "221661891": "{\"popup_rules\":[{\"id\":\"\",\"action\":\"UPGRADE NOW\"}]}"
   },
   {
-    "222589124": "{\"popup_rules\":[{\"id\":\"=广告\",\"action\":\"=close\"},{\"id\":\"\",\"action\":\"=close_pop&=收起广告\"},{\"id\":\"\",\"action\":\"=iv_close_bt\"},{\"id\":\"\",\"action\":\"=iv_close\"},{\"id\":\"\",\"action\":\"=skip_bottom_view\"},{\"id\":\"=image\",\"action\":\"=close\"},{\"id\":\"\",\"action\":\"=iv_cancel&=fl_video_container\"},{\"id\":\"\",\"action\":\"=aiv_guide_cancel\"},{\"id\":\"\",\"action\":\"=btn_never&不再提醒\"},{\"id\":\"=tv_version\",\"action\":\"=iv_close\"},{\"id\":\"\",\"action\":\"=aivClose&=course_one_course_close&=home_ad_close&=course_four_course_close&=promotion_close_zone\"},{\"id\":\"\",\"action\":\"=dialog_close_btn\"},{\"id\":\"\",\"action\":\"=广告&=close\"},{\"id\":\"\",\"action\":\"=收起广告&=close_pop\"},{\"id\":\"\",\"action\":\"=image&=close\"},{\"id\":\"\",\"action\":\"=tv_version&=iv_close\"}]}"
+    "222589124": "{\"popup_rules\":[{\"id\":\"=广告\",\"action\":\"=close\"},{\"id\":\"\",\"action\":\"=close_pop&=收起广告\"},{\"id\":\"\",\"action\":\"=iv_close_bt\"},{\"id\":\"\",\"action\":\"=iv_close\"},{\"id\":\"\",\"action\":\"=skip_bottom_view\"},{\"id\":\"=image\",\"action\":\"=close\"},{\"id\":\"\",\"action\":\"=iv_cancel&=fl_video_container\"},{\"id\":\"\",\"action\":\"=aiv_guide_cancel\"},{\"id\":\"\",\"action\":\"=btn_never&不再提醒\"},{\"id\":\"=tv_version\",\"action\":\"=iv_close\"},{\"id\":\"\",\"action\":\"=aivClose&=course_one_course_close&=home_ad_close&=course_four_course_close&=promotion_close_zone\"},{\"id\":\"\",\"action\":\"=dialog_close_btn\"},{\"id\":\"\",\"action\":\"=广告&=close\"},{\"id\":\"\",\"action\":\"=收起广告&=close_pop\"},{\"id\":\"\",\"action\":\"=image&=close\"},{\"id\":\"\",\"action\":\"=tv_version&=iv_close\"},{\"id\":\"\",\"action\":\"=aivClose&=course_one_course_close&=home_ad_close&=course_four_course_close&=promotion_close_zone&=ivClose\"}]}"
   },
   {
     "222893312": "{\"popup_rules\":[{\"id\":\"=recycle_view\",\"action\":\"=close_ad\"},{\"id\":\"\",\"action\":\"=recycle_view&=close_ad\"}]}"
@@ -1602,7 +1608,7 @@
     "311511704": "{\"popup_rules\":[{\"id\":\"\",\"action\":\"=close_view\",\"times\":1}]}"
   },
   {
-    "313184810": "{\"keywords_append\":[\"跳过\"],\"popup_rules\":[{\"id\":\"-评论氛围是否满意？,匿名\",\"action\":\"=关闭,按钮\"},{\"id\":\"立即升级\",\"action\":\"=以后再说\"},{\"id\":\"+打开私信通知&=开启朋友的消息通知&=及时获得消息提醒&-评论回复提醒\",\"action\":\"=以后再说&=暂不开启&=禁止&=取消\"},{\"id\":\"=添加火花桌面小组件\",\"action\":\"GLOBAL_ACTION_BACK\"},{\"id\":\"通讯录\",\"action\":\"=拒绝\"},{\"id\":\"青少年&未成年&模式\",\"action\":\"=关闭&=不再提醒\"},{\"id\":\"个性化推荐\",\"action\":\"=稍后再说\"},{\"id\":\"=发口令开红包\",\"action\":\"=一键发送到聊天\"},{\"id\":\"相机权限\",\"action\":\"=以后再说\"},{\"id\":\"\",\"action\":\"=购买&=iv_close\"},{\"id\":\"\",\"action\":\"=以后再说&=暂不开启&=禁止&=取消\",\"times\":1},{\"id\":\"\",\"action\":\"=关闭&=不再提醒\"},{\"id\":\"\",\"action\":\"=你可能喜欢这些直播&=close\"},{\"id\":\"\",\"action\":\"=以后再说&=暂不开启&=禁止&=取消&=保持现状\",\"times\":1},{\"id\":\"=立即下载\",\"action\":\"=iv_close\"}]}"
+    "313184810": "{\"keywords_append\":[\"跳过\"],\"popup_rules\":[{\"id\":\"-评论氛围是否满意？,匿名\",\"action\":\"=关闭,按钮\"},{\"id\":\"立即升级\",\"action\":\"=以后再说\"},{\"id\":\"+打开私信通知&=开启朋友的消息通知&=及时获得消息提醒&-评论回复提醒\",\"action\":\"=以后再说&=暂不开启&=禁止&=取消\"},{\"id\":\"=添加火花桌面小组件\",\"action\":\"GLOBAL_ACTION_BACK\"},{\"id\":\"通讯录\",\"action\":\"=拒绝\"},{\"id\":\"青少年&未成年&模式\",\"action\":\"=关闭&=不再提醒\"},{\"id\":\"个性化推荐\",\"action\":\"=稍后再说\"},{\"id\":\"=发口令开红包\",\"action\":\"=一键发送到聊天\"},{\"id\":\"相机权限\",\"action\":\"=以后再说\"},{\"id\":\"\",\"action\":\"=购买&=iv_close\"},{\"id\":\"\",\"action\":\"=以后再说&=暂不开启&=禁止&=取消\",\"times\":1},{\"id\":\"\",\"action\":\"=关闭&=不再提醒\"},{\"id\":\"\",\"action\":\"=你可能喜欢这些直播&=close\"},{\"id\":\"\",\"action\":\"=以后再说&=暂不开启&=禁止&=取消&=保持现状\",\"times\":1},{\"id\":\"=立即下载\",\"action\":\"=iv_close\"},{\"id\":\"\",\"action\":\"=关闭&=不再提醒&=我知道了\",\"times\":1}]}"
   },
   {
     "321803898": "{\"popup_rules\":[{\"id\":\"=ivClose\",\"action\":\"=新版本上线啦\"},{\"id\":\"\",\"action\":\"=新版本上线啦&=ivClose\"}]}"
@@ -1629,7 +1635,7 @@
     "353766558": "{\"popup_rules\":[{\"id\":\"\",\"action\":\"=sh_app_upgrade_dialog_close\"}]}"
   },
   {
-    "361910168": "{\"keywords_append\":[\"跳过\",\"广告\",\"+跳过\"],\"popup_rules\":[{\"id\":\"\",\"action\":\"=关闭广告&=详情\"},{\"id\":\"\",\"action\":\"=关闭&-试用超级会员\"},{\"id\":\"\",\"action\":\"=更多&=广告&=今天\"},{\"id\":\"\",\"action\":\"+关闭&条\"},{\"id\":\"+登录确认&+申请使用\",\"action\":\"=同意&=登录&=确认&=授权\",\"times\":1},{\"id\":\"\",\"action\":\"=关闭&+立即&=马上升级\"},{\"id\":\"=立即升级\",\"action\":\"=稍后处理\"},{\"id\":\"\",\"action\":\"版本更新&=点击下载&=立即安装&=点击更新\"},{\"id\":\"=入群申请中\",\"action\":\"=关闭\"},{\"id\":\"+开启通知提醒\",\"action\":\"-拒绝\"},{\"id\":\"+当前处于&体验模式\",\"action\":\"=我知道了\"},{\"id\":\"+不看&+隐藏&-动态\",\"action\":\"=确定\"},{\"id\":\"=确认不看此条动态吗？\",\"action\":\"=确定\"},{\"id\":\"\",\"action\":\"=跳过&=关闭\"},{\"id\":\"\",\"action\":\"=关闭此条广告&=关闭这条\"}]}"
+    "361910168": "{\"keywords_append\":[\"跳过\",\"广告\",\"+跳过\"],\"popup_rules\":[{\"id\":\"\",\"action\":\"=关闭广告&=详情\"},{\"id\":\"\",\"action\":\"=关闭&-试用超级会员\"},{\"id\":\"\",\"action\":\"=更多&=广告&=今天\"},{\"id\":\"\",\"action\":\"+关闭&条\"},{\"id\":\"+登录确认&+申请使用\",\"action\":\"=同意&=登录&=确认&=授权\",\"times\":1},{\"id\":\"\",\"action\":\"=关闭&+立即&=马上升级\"},{\"id\":\"=立即升级\",\"action\":\"=稍后处理\"},{\"id\":\"\",\"action\":\"版本更新&=点击下载&=立即安装&=点击更新\"},{\"id\":\"=入群申请中\",\"action\":\"=关闭\"},{\"id\":\"+开启通知提醒\",\"action\":\"-拒绝\"},{\"id\":\"+当前处于&体验模式\",\"action\":\"=我知道了\"},{\"id\":\"+不看&+隐藏&-动态\",\"action\":\"=确定\"},{\"id\":\"=确认不看此条动态吗？\",\"action\":\"=确定\"},{\"id\":\"\",\"action\":\"=跳过&=关闭\"},{\"id\":\"\",\"action\":\"=关闭此条广告&=关闭这条\"},{\"id\":\"\",\"action\":\"=不感兴趣&=关闭推荐\"}]}"
   },
   {
     "364079795": "{\"popup_rules\":[{\"id\":\"\",\"action\":\"=iv_close&=打开消息推送\"},{\"id\":\"\",\"action\":\"=iv_ad_float_close\"},{\"id\":\"\",\"action\":\"=cb_ignore_version\"},{\"id\":\"\",\"action\":\"=打开消息推送&=iv_close\"}]}"
@@ -2112,7 +2118,7 @@
     "1012578559": "{\"popup_rules\":[{\"id\":\"\",\"action\":\"=android:id/button2&=暂不\"},{\"id\":\"\",\"action\":\"=tvPermissionDescDialogConfirm\"}]}"
   },
   {
-    "1014178734": "{\"popup_rules\":[{\"id\":\"\",\"action\":\"=ms_activity_sdk_interstitial_cacel\"},{\"id\":\"\",\"action\":\"=anythink_myoffer_btn_close_id&=sdm_myoffer_btn_close_id&=beizi_interstitial_ad_close_iv\"},{\"id\":\"\",\"action\":\"=关闭&广告\"},{\"id\":\"\",\"action\":\"+请允许&-安装应用\"},{\"id\":\"+打开系统消息通知\",\"action\":\"=取消\"},{\"id\":\"-报名成功!\",\"action\":\"=完成\"},{\"id\":\"-签到成功！\",\"action\":\"=完成\"}]}"
+    "1014178734": "{\"popup_rules\":[{\"id\":\"\",\"action\":\"=ms_activity_sdk_interstitial_cacel\"},{\"id\":\"\",\"action\":\"=anythink_myoffer_btn_close_id&=sdm_myoffer_btn_close_id&=beizi_interstitial_ad_close_iv\"},{\"id\":\"\",\"action\":\"=关闭&广告\"},{\"id\":\"\",\"action\":\"+请允许&-安装应用\"},{\"id\":\"+打开系统消息通知\",\"action\":\"=取消\"},{\"id\":\"-报名成功!\",\"action\":\"=完成\"},{\"id\":\"-签到成功！\",\"action\":\"=完成\"},{\"id\":\"\",\"action\":\"=ms_activity_sdk_interstitial_cacel&=ms_interstitial_v2_close\"},{\"id\":\"\",\"action\":\"=anythink_myoffer_btn_close_id&=sdm_myoffer_btn_close_id&=beizi_interstitial_ad_close_iv&=closeAdvertLayout\"}]}"
   },
   {
     "1014810514": "{\"keywords_append\":[\"惊喜奖励\",\"放弃奖励离开\",\"优量汇-插屏视频endcard\",\"关闭喵\"],\"popup_rules\":[],\"unite_popup_rules\":true}"
@@ -2155,6 +2161,9 @@
   },
   {
     "1062746585": "{\"popup_rules\":[{\"id\":\"=备份您的翻译历史记录\",\"action\":\"=取消\"}]}"
+  },
+  {
+    "1063883033": "{\"popup_rules\":[{\"id\":\"=已完成付费，恢复VIP状态?\",\"action\":\"GLOBAL_ACTION_BACK\"}]}"
   },
   {
     "1065293722": "{\"popup_rules\":[{\"id\":\"\",\"action\":\"=btn_cancelUpdate&暂不更新\"},{\"id\":\"\",\"action\":\"=switchView&=tv_automatic_use\"},{\"id\":\"广告\",\"action\":\"=关闭\"},{\"id\":\"\",\"action\":\"=tianmu_widget_iv_close\"},{\"id\":\"\",\"action\":\"=|&-s\"},{\"id\":\"\",\"action\":\"=iv_cancel&=ad_close\"}]}"
@@ -2241,6 +2250,9 @@
     "1175536078": "{\"popup_rules\":[{\"id\":\"\",\"action\":\"双十一\"}]}"
   },
   {
+    "1179579697": "{\"popup_rules\":[{\"id\":\"\",\"action\":\"=立即升级 Qwen\"}]}"
+  },
+  {
     "1181245932": "{\"popup_rules\":[{\"id\":\"=发现新版本\",\"action\":\"=取消\"},{\"id\":\"\",\"action\":\"=发现新版本&=取消\"}]}"
   },
   {
@@ -2311,6 +2323,9 @@
   },
   {
     "1283073952": "{\"popup_rules\":[{\"id\":\"\",\"action\":\"=下次再说&=发现新版本\"},{\"id\":\"\",\"action\":\"=dialog_delete&=关闭\"}]}"
+  },
+  {
+    "1285532417": "{\"popup_rules\":[{\"id\":\"\",\"action\":\"=imv_ad_close\"}]}"
   },
   {
     "1291563139": "{\"popup_rules\":[],\"keywords\":[\"跳过\"],\"keywords_append\":[\"跳过\"],\"click_way\":1}"
@@ -2842,6 +2857,9 @@
   },
   {
     "2121355864": "{\"popup_rules\":[{\"id\":\"\",\"action\":\"=btnCancel\"},{\"id\":\"=反馈\",\"action\":\"跳过\"},{\"id\":\"\",\"action\":\"=com.kwad.dy.sdk:id/ksad_end_close_btn&=免费获取\"},{\"id\":\"\",\"action\":\"广告\"},{\"id\":\"\",\"action\":\"close\"},{\"id\":\"\",\"action\":\"=com.byted.pangle.m:id/tt_reward_full_count_down\"},{\"id\":\"广告\",\"action\":\"=跳过\"}]}"
+  },
+  {
+    "2123438483": "{\"popup_rules\":[{\"id\":\"\",\"action\":\"=iv_close&=coupon_la_container\"}]}"
   },
   {
     "2127901857": "{\"popup_rules\":[]}"

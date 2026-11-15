@@ -2,7 +2,7 @@
   "app": {
     "title": "阅读助手 · 书源集",
     "description": "Flutter 三导航分类书源管理页",
-    "version": "1.0.0"
+    "version": "1.0.1"
   },
   "docs": [
     {

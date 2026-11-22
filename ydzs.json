@@ -39,32 +39,32 @@
   "sources": [
     {
       "name": "笔趣阁",
-      "url": "https://ghfast.top/https://raw.githubusercontent.com/wuxierj/sy/main/笔趣阁全家桶.json",
-      "ghproxy": "ghfast.top",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/wuxierj/sy/main/笔趣阁全家桶.json",
+      "ghproxy": "gh-proxy.org",
       "rawPath": "https://raw.githubusercontent.com/wuxierj/sy/main/笔趣阁全家桶.json"
     },
     {
       "name": "速读谷",
-      "url": "https://ghfast.top/https://raw.githubusercontent.com/wuxierj/sy/main/速读谷.json",
-      "ghproxy": "ghfast.top",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/wuxierj/sy/main/速读谷.json",
+      "ghproxy": "gh-proxy.org",
       "rawPath": "https://raw.githubusercontent.com/wuxierj/sy/main/速读谷.json"
     },
     {
       "name": "七猫小说",
-      "url": "https://ghfast.top/https://raw.githubusercontent.com/wuxierj/sy/main/七猫免费小说.json",
-      "ghproxy": "ghfast.top",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/wuxierj/sy/main/七猫免费小说.json",
+      "ghproxy": "gh-proxy.org",
       "rawPath": "https://raw.githubusercontent.com/wuxierj/sy/main/七猫免费小说.json"
     },
     {
       "name": "无邪书源合集",
-      "url": "https://ghf.xn--eqrr82bzpe.top/https://raw.githubusercontent.com/wxrjck/ydsy/main/sy.json",
-      "ghproxy": "ghf.xn--eqrr82bzpe.top",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/wxrjck/ydsy/main/sy.json",
+      "ghproxy": "gh-proxy.org",
       "rawPath": "https://raw.githubusercontent.com/wxrjck/ydsy/main/sy.json"
     },
     {
       "name": "narccissu一个人（女频）",
-      "url": "https://ghfast.top/https://raw.githubusercontent.com/wuxierj/sy/main/narccissu一个人（女频书源合集）.json",
-      "ghproxy": "ghfast.top",
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/wuxierj/sy/main/narccissu一个人（女频书源合集）.json",
+      "ghproxy": "gh-proxy.org",
       "rawPath": "https://raw.githubusercontent.com/wuxierj/sy/main/narccissu一个人（女频书源合集）.json"
     }
   ],

@@ -22,7 +22,7 @@
     {"id": "realtime", "label": "🔄 实时更新", "special": true}
   ],
   "interfaces": [
-    {"name": "无邪多仓", "url": "https://gh-proxy.com/https://raw.githubusercontent.com/wxrjck/-YSC-/refs/heads/main/wx.json", "category": "multi", "tag": "无邪", "note": "内置推荐+聚合全网"},
+    {"name": "无邪多仓", "url": "https://gh-proxy.org/https://raw.githubusercontent.com/wxrjck/-YSC-/refs/heads/main/wx.json", "category": "multi", "tag": "无邪", "note": "内置推荐+聚合全网"},
     {"name": "鸟叔多仓（V3专用）", "url": "https://8.163.122.228/ysc", "category": "multi", "tag": "V3专用"},
     {"name": "饭太硬", "url": "http://饭太硬.top/tv", "category": "premium", "tag": "优质", "backups": ["http://www.饭太硬.net/tv", "http://www.饭太硬.xyz/tv"]},
     {"name": "肥猫", "url": "http://肥猫.net/", "category": "premium", "tag": "新升级", "backups": ["http://hello.肥猫.net", "http://肥猫.net/tv"]},
